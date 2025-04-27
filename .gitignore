@@ -30,3 +30,5 @@ Desktop.ini
 *.spec.js
 
 # By Cascade: Sharely app ignore
+
+.vercel
